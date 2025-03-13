@@ -3,27 +3,27 @@ import { AnimatedTestimonials } from './ui/animated-testimonials';
 
 const testimonials = [
   {
-    quote: "The 5 steps guide completely changed how I approached studying in the USA. I'm now at my dream university!",
-    name: "Sarah Johnson",
-    designation: "International Student, Harvard University",
+    quote: "The classes not only help you become a competent speaker and a powerful writer, they also allow you to develop a deep level of control over your language skills.",
+    name: "Nicole Schindler",
+    designation: "German Student",
     src: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
-    quote: "I was overwhelmed by the application process until I found this guide. It simplified everything!",
-    name: "Miguel Rodriguez",
-    designation: "MBA Student, Stanford University",
+    quote: "INTERLINK provides useful and excellent methods to help students sharpen their English skills…and has excellent teachers who serve as students' instructors, mentors, and friends.",
+    name: "Mei-Lan Chen",
+    designation: "Taiwanese Student",
     src: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
-    quote: "Thanks to this roadmap, I secured a full scholarship to study Computer Science in the US.",
-    name: "Aisha Patel",
-    designation: "Computer Science, MIT",
+    quote: "During the nine months that I was at INTERLINK, my English skills improved more than I could have expected. It was a valuable experience, not just because I improved my English, but also because I learned about different cultures and made new friends. I strongly recommend this program to people who seek to develop their English in a short period of time.",
+    name: "Norah Alkhunaini",
+    designation: "Saudi Student",
     src: "https://images.unsplash.com/photo-1623582854588-d60de57fa33f?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
-    quote: "Clear, concise and incredibly helpful. I recommend this guide to anyone looking to study abroad.",
-    name: "David Kim",
-    designation: "International Student, Columbia University",
+    quote: "The enthusiasm of the students to learn and the professional capabilities of the INTERLINK staff multiply the positive experience of the process for the remarkable growth of all involved.",
+    name: "Linda Lambert",
+    designation: "US Instructor",
     src: "https://images.unsplash.com/photo-1636041293178-808a6762ab39?q=80&w=3464&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   }
 ];

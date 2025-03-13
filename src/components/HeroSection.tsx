@@ -61,7 +61,7 @@ const HeroSection = () => {
             transition={{ duration: 0.6, delay: 0.3 }}
             className="text-4xl md:text-5xl font-bold text-[#064088] mb-4"
           >
-            5 Easy Steps to Study in the USA (Even if Your English Isn't Perfect!)
+            5 Easy Steps to Study in the USA <span className="text-3xl md:text-4xl">(Even if Your English Isn't Perfect!)</span>
           </motion.h1>
           
           {/* Subheadline */}
@@ -90,7 +90,7 @@ const HeroSection = () => {
                 name="name"
                 value={formData.name}
                 onChange={handleChange}
-                placeholder="Your full name"
+                placeholder="Enter your full name"
                 required
                 className="w-full px-4 py-3 border border-gray-200 rounded-lg focus:outline-none focus:ring-1 focus:ring-[#064088] bg-white text-gray-800"
               />
@@ -103,7 +103,7 @@ const HeroSection = () => {
                 name="email"
                 value={formData.email}
                 onChange={handleChange}
-                placeholder="Your email address"
+                placeholder="your.email@example.com"
                 required
                 className="w-full px-4 py-3 border border-gray-200 rounded-lg focus:outline-none focus:ring-1 focus:ring-[#064088] bg-white text-gray-800"
               />
@@ -121,7 +121,7 @@ const HeroSection = () => {
           </form>
           
           <div className="mt-4 text-xs text-center text-gray-500">
-            Trusted by students from over 10 countries
+            Trusted by 2,000+ students from over 10 countries
           </div>
         </motion.div>
       </div>

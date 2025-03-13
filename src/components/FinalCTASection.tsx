@@ -20,7 +20,7 @@ const FinalCTASection = () => {
             transition={{ duration: 0.6 }}
             className="text-3xl md:text-4xl font-bold text-[#064088] mb-4"
           >
-            Still Thinking? Your FREE Guide Awaits
+            Still Thinking? Your Guide Awaits
             <br />
             <span className="text-[#dc5d33]">It's FREE!</span>
           </motion.h2>
@@ -81,7 +81,7 @@ const FinalCTASection = () => {
               transition={{ duration: 0.6, delay: 0.4 }}
               className="text-xs text-gray-500 mt-4 flex items-center justify-center"
             >
-              <span className="mr-1">🔒</span> We respect your privacy. Unsubscribe anytime.
+              <span className="mr-1">📨</span> We'll send you the guide via email right away!
             </motion.p>
           </motion.div>
         </motion.div>
