@@ -39,7 +39,7 @@ const IsRightForYouSection = () => {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           transition={{ duration: 0.6 }}
-          className="text-3xl md:text-4xl font-bold text-center text-[#064088] mb-12"
+          className="text-4xl md:text-5xl font-bold text-center text-[#064088] mb-12"
         >
           Is This Right for You?
         </motion.h2>
