@@ -13,8 +13,8 @@ const Footer = () => {
             <p className="font-semibold mb-2">Contact:</p>
             <p className="mb-1">Ms. Valley Peters, Executive Director</p>
             <p className="mb-1">Email: <a href="mailto:admissions@interlink.edu" className="text-[#064088] hover:underline">admissions@interlink.edu</a></p>
-            <p className="mb-1">Tel: (720) 391-2030</p>
-            <p className="mb-1">WhatsApp: +1 720 391 2030</p>
+            <p className="mb-1">Tel: +1 (720) 391-2030</p>
+            <p className="mb-1">WhatsApp: +1 (720) 391-2030</p>
           </div>
           
           <div className="text-gray-700 text-sm text-center mb-4">
